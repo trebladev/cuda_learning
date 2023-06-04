@@ -1,0 +1,1 @@
+add_executable(simple_sum_Matrix simple_sum_Matrix.cu)
